@@ -49,6 +49,18 @@
             <img src="./assets/icons/scikitlearn.png" width="65px"/>
             <br /> Scikit Learn
         </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/flask.png" width="65px"/>
+            <br /> Flask
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/Django.png" width="65px"/>
+            <br /> Django
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/restAPI.jpg" width="65px"/>
+            <br /> RestAPI
+        </td>
     </tr>
 </table>
 </div>
