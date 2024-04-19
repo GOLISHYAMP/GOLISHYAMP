@@ -1,4 +1,4 @@
-- ### Hi there, I'm Ashish Patel👋
+- ### Hi there, I'm Shyam Goli👋
   ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
  
 
@@ -7,15 +7,11 @@
 
 ---
 
-  * 🔭 I am Currently working as **Chief Data Scientist(Sr.AWS AI ML Solution Architect)** at [IBM](https://www.ibm.com/in-en)
+  * 🔭 I am Currently working as **Python Developer** at [Capgemini](https://www.capgemini.com/)      
 
-  - 🌱 I’m currently Learning Quantum Machine learning😎.
-
-  - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
+  - 🌱 I’m currently Learning Machine learning and Deep Learning😎.
   
-  - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
-  
-  - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+  - 🥅 2024 Goals: Explore the more and more research of Machine Learning, Deep learning, Time Series Analysis, etc.
 
   - ⚡ Fun fact: I love to code.
 
@@ -68,18 +64,7 @@
     </tr>
 </table>
 </div>
-
- - Laptop (I am using)
- -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)  
-
-||Model|Bench
-:----|:----|:----|
-**CPU**|[Intel Core i7-10870H](https://cpu.userbenchmark.com/SpeedTest/1322918/IntelR-CoreTM-i7-10870H-CPU---220GHz)|77.1%
-**GPU**|[Intel UHD Graphics](https://gpu.userbenchmark.com/SpeedTest/1027883/IntelR-UHD-Graphics)|4.8%
-**GPU**|[Nvidia RTX 3060 (Laptop)](https://gpu.userbenchmark.com/SpeedTest/1452971/NVIDIA-GeForce-RTX-3060-Laptop-GPU)|84.1%
-**SSD**|[Samsung MZVLB1T0HBLR-00007 1TB](https://ssd.userbenchmark.com/SpeedTest/963042/SAMSUNG-MZVLB1T0HBLR-00007)|104.4%
-**RAM**|[Hynix HMAA2GS6AJR8N-XN 1x16GB](https://ram.userbenchmark.com/SpeedTest/1166099/Hynix-HMAA2GS6AJR8N-XN-1x16GB)|37.8%
-**MBD**|[Acer Predator PH315-53](https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818)|   
+ 
 
 ### Important Repository
 
