@@ -1,5 +1,5 @@
 - ### Hi there, I'm Shyam Goli👋
-  ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
+  ![](https://komarev.com/ghpvc/?username=GOLISHYAMP&color=green)  
  
 
 
