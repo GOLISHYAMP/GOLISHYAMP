@@ -68,7 +68,7 @@
 
 ### Important Repository
 
-💾 365 Days of Computer Vision - [🔗](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
+💾 Python Development Practice - [🔗](https://github.com/GOLISHYAMP/ML_AI)
 
 ---
 
