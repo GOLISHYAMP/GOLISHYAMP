@@ -72,7 +72,7 @@
 
 💾 Google colab AI/ML - [🔗](https://github.com/GOLISHYAMP/Colab_Notebooks)
 
-💾 ML End_to_End Project - [🔗](https://github.com/GOLISHYAMP/ML_end_to_end_Project)
+💾 ML End_to_End Project - [🔗](https://github.com/GOLISHYAMP/ML_end_to_end_Project)  [visit_App](https://mlendtoendproject-dq7v3u4zhmexrqwqxrxpry.streamlit.app/)
 
 ---
 
