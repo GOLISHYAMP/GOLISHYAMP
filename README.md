@@ -68,7 +68,7 @@
 
 ### Important Repository
 
-💾 Python Development Practice - [🔗](https://github.com/GOLISHYAMP/ML_AI)
+💾 Python Development Folder - [🔗](https://github.com/GOLISHYAMP/ML_AI)
 
 💾 Google colab AI/ML - [🔗](https://github.com/GOLISHYAMP/Colab_Notebooks)
 
